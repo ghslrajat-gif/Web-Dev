@@ -1,0 +1,46 @@
+<style>
+    p{
+        font-family:arial;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .first{
+        font-weight: bold;
+        font-size:24px;
+      
+    }
+    .second{
+        font-size:24px;
+        color: rgb(89, 87, 87);
+       
+    }
+    .description{
+        margin-top: 10px;
+        font-size:18px;
+        margin-bottom: 10px;
+    }
+    .all{
+        font-size:18px;
+    }
+    .id{
+       color: blueviolet;
+    }
+</style>
+<p>
+    <span class="first">
+        freeCodeCamp.org
+    </span>
+    <span class="second">
+        @freeCodeCamp 1h
+    </span>
+</p>
+<p class="description">As a web developer, you'll ant to make your projects easy to use and navigate around.</p>
+<p>
+    <span class="all">
+    <span>Here</span>
+    <span class="id">
+        @chp_it
+    </span>
+    <span class="text">outlines the top skills new developers should have.</span>
+</span>
+</p>

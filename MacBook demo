@@ -1,0 +1,46 @@
+<style>
+    p{
+        font-family: Arial;
+        text-align: center;
+        margin-top:0px;
+        margin-bottom: 0px;
+    }
+    .new{
+        color:rgb(210, 137, 1);
+        font-weight: bold;
+    }
+    .product{
+        font-weight: bold;
+        font-size:25px;
+        margin-top: 5px;
+    }
+    .description{
+        margin-top: 4px;
+        font-size:40px;
+        font-weight: bold;
+        margin-bottom: 13px;
+    }
+    .price{
+        font-size:20px;
+        margin-bottom: 20px;
+    }
+    .buy{
+        font-size: 15px;
+        color: white;
+        background-color: blueviolet;
+        border:none;
+        border-radius: 20px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 22px;
+        padding-left: 22px;
+       
+    }
+</style>
+<p class="new">New</p>
+<p class="product">
+    MacBook Pro
+</p>
+<p class="description">Supercharged for pros.</p>
+<p class="price">From $1999</p>
+<p><span class="buy">Buy</span></p>

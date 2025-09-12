@@ -1,0 +1,26 @@
+.cat{
+    width: 35px;
+    height:35px;
+    border-radius: 20px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+.g{
+    margin-left: 2px;
+    border:none;
+    font-family: Arial;
+    margin-right: 60px;
+}
+.button{
+    margin-right: 100px;
+    background-color: rgb(180, 100, 255);
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    border:none;
+    border-radius: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
